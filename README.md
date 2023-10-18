@@ -1,1 +1,3 @@
-# Note-App-UI-flutter
+# note_app
+
+A new Flutter project.
